@@ -27,3 +27,5 @@ tkinter
 
 
 Please fill the serial number of the person in the person details as integer value most preferably serialwise.
+
+Please Train the data once before clicking face recognition button because classifier.xml file was not uploaded as it was larger than the size permit by github.On clicking train data button ,classifier.xml file will be created itself.
